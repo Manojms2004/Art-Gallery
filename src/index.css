@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.cdnfonts.com/css/big-shoulders-display');
+
+.b-r{
+    @apply border-4 border-red-700
+}
+.b-g{
+    @apply border-2 border-green-700
+}
+.b-b{
+    @apply border-2 border-blue-700
+}

@@ -6,7 +6,7 @@ import iconsImg from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\iconsImg.pn
 import arrow from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\arrow.svg'
 import { Link } from 'react-router-dom'
 
-export default function() {
+export default function LocationComp() {
     return (
         <div>
             {/* Map Location section */}

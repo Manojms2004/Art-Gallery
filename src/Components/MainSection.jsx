@@ -4,8 +4,7 @@ import mainImg2 from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg2.jp
 import mainImg3 from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg3.jpg'
 import mainImg4  from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg4.png'
 
-export default function
-    () {
+export default function MainSection () {
     return (
         <main>
             <div className='lg:p-36'>

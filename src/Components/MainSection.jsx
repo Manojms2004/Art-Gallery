@@ -1,8 +1,8 @@
 import React from 'react'
-import mainImg1 from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg1.jpg'
-import mainImg2 from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg2.jpg'
-import mainImg3 from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg3.jpg'
-import mainImg4  from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\mainImg4.png'
+import mainImg1 from '../ImgesFolder/mainImg1.jpg'
+import mainImg2 from '../ImgesFolder/mainImg2.jpg'
+import mainImg3 from '../ImgesFolder/mainImg3.jpg'
+import mainImg4  from '../ImgesFolder/mainImg4.png'
 
 export default function MainSection () {
     return (

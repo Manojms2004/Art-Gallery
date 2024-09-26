@@ -1,5 +1,5 @@
 import React from 'react'
-import iconsImg from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\footerIcon.png'
+import iconsImg from '../ImgesFolder/footerIcon.png'
 
 
 export default function FooterSection() {

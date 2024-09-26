@@ -1,8 +1,8 @@
 import React from 'react'
-import imgHome from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\img1home.jpg'
-import arrow from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\arrow.svg'
+import imgHome from '../ImgesFolder/img1home.jpg'
+import arrow from '../ImgesFolder/arrow.svg'
 import { Link } from 'react-router-dom'
-import MainSection from 'E:\\React_pro1\\web-design2\\src\\Components\\MainSection.jsx'
+import MainSection from './MainSection.jsx'
 import FooterSection from './FooterSection'
 
 export default function HeadSection() {

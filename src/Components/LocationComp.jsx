@@ -1,9 +1,8 @@
 import React from 'react'
-import MapImg from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\MapsImg.png'
-import TextLoca from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\LocationImg.png'
-import FooterImg from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\footerImg.png'
-import iconsImg from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\iconsImg.png'
-import arrow from 'E:\\React_pro1\\web-design2\\src\\ImgesFolder\\arrow.svg'
+import TextLoca from '../ImgesFolder/LocationImg.png'
+import FooterImg from '../ImgesFolder/footerImg.png'
+import iconsImg from '../ImgesFolder/iconsImg.png'
+import arrow from '../ImgesFolder/arrow.svg'
 import { Link } from 'react-router-dom'
 
 export default function LocationComp() {
